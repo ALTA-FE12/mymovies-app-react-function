@@ -1,0 +1,15 @@
+.navbar {
+  font-family: Poppins;
+  font-weight: 700;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.btn-home {
+  background-color: black;
+}
+
+.dropdown {
+  background-color: black;
+  border-radius: 10px;
+}
